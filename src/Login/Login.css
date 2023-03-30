@@ -1,0 +1,36 @@
+*{
+    background-color: blue;
+    box-sizing: border-box;
+}
+
+
+.left h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 35px;
+    line-height: 99.19%;
+    position: absolute;
+    width: 277px;
+    height: 71px;
+    left: 102px;
+    top: 181px; 
+    letter-spacing: 0.025em;   
+    color: #FFFFFF;
+}
+
+.left p{
+    position: absolute;
+    width: 315px;
+    height: 9px;
+    left: 102px;
+    top: 273px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 11px;
+    line-height: 99.19%;
+    letter-spacing: 0.018em;
+    color: #FFFFFF;   
+}

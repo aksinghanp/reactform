@@ -1,0 +1,51 @@
+.form{
+position: absolute;
+width: 338px;
+height: 314px;
+left: 800px;
+top: 123px;
+
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 7px;
+}
+
+form{
+    background-color: #FFFFFF;
+    text-align: center;
+}
+
+label{
+    background-color: #FFFFFF;
+}
+button{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 7px;
+    line-height: 99.19%;
+    letter-spacing: 0.053em;
+    color: #f7f1f1;
+    background: #B5B5B5;
+    box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.46);
+    border-radius: 2px;
+}
+input,select{
+    background: white;
+    margin-left: 30px;
+    width: 40vh;
+}
+
+h6{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 7px;
+line-height: 99.19%;
+/* or 7px */
+
+letter-spacing: 0.053em;
+
+color: #C2C2C2;
+background-color: white;
+}
